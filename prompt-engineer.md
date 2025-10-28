@@ -15,7 +15,8 @@ Guía práctica para redactar mejores prompts y obtener respuestas más útiles,
 - **Da contexto siempre.**  
   Si no proporcionas información suficiente, el modelo la **inventará o asumirá** según su entrenamiento.  
   Cada dato que omites, la IA lo elige por ti.
-
+  
+- **Dile que haga preguntas en caso de tenerlas.**  
 ---
 
 ## Principios clave
