@@ -16,7 +16,8 @@ Guía práctica para redactar mejores prompts y obtener respuestas más útiles,
   Si no proporcionas información suficiente, el modelo la **inventará o asumirá** según su entrenamiento.  
   Cada dato que omites, la IA lo elige por ti.
   
-- **Dile que haga preguntas en caso de tenerlas.**  
+- **Dile que haga preguntas en caso de tenerlas.**
+  Dile ¨Hazme preguntas antes de responderme¨
 ---
 
 ## Principios clave
