@@ -47,7 +47,7 @@ Guía práctica para redactar mejores prompts y obtener respuestas más útiles,
 
 ---
 
-## 🧩 Buenas prácticas
+## Buenas prácticas
 
 - **Usa roles o contextos.**  
   Ejemplo: “Actúa como un profesor de matemáticas que explica conceptos con ejemplos simples.”
